@@ -81,9 +81,9 @@ With a focus on enhancing property value and meeting the diverse needs of client
 
 ## RECOMMENDATION
 
-![image](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+![image](https://github.com/whareverrr/dsc-phase-2-project-v2-3/blob/main/model1.PNG)
 
-![image](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+![image](https://github.com/whareverrr/dsc-phase-2-project-v2-3/blob/main/model2.PNG)
 
 1. **Constant (Intercept)**:
    - Coefficient: 6.464e+06
