@@ -83,7 +83,6 @@ With a focus on enhancing property value and meeting the diverse needs of client
 
 ![image](https://github.com/whareverrr/dsc-phase-2-project-v2-3/blob/main/model1.PNG)
 
-![image](https://github.com/whareverrr/dsc-phase-2-project-v2-3/blob/main/model2.PNG)
 
 1. **Constant (Intercept)**:
    - Coefficient: 6.464e+06
@@ -141,6 +140,8 @@ With a focus on enhancing property value and meeting the diverse needs of client
     - Impact: Properties with better views command higher prices due to the premium associated with scenic views.
 
 Overall, this regression model provides insights into how various features of a property influence its price, allowing for better understanding and prediction in the real estate market.
+
+![image](https://github.com/whareverrr/dsc-phase-2-project-v2-3/blob/main/model2.PNG)
 
 **Interpretation**:
 - Model 4, with the lowest RMSE, outperforms the other models in predicting property values. This indicates that the features included in Model 4, such as square footage of living space, square footage of the lot, waterfront status, number of floors, year built, year renovated, bedrooms, bathrooms, grade, and view, collectively provide the most effective predictors for property values.
